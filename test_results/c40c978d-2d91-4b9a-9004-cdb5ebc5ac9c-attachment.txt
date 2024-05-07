@@ -1,0 +1,37 @@
+https://krasnoyarsk.220-volt.ru/tracker_advcake/
+Статус кода: 200
+Данные о товарах получены
+ID: 580248, Model:  PFL-SC-SMD-100Вт LED 100Вт IP65 6500К, Price: 3 871руб.
+ID: 751354, Model:  5023628 PFL-C3, Price: 1 849руб.
+ID: 580247, Model:  PFL-SC-SMD-50Вт LED 50Вт IP65 6500К, Price: 2 241руб.
+ID: 751357, Model:  5023666 PFL-C3, Price: 4 245руб.
+ID: 751359, Model:  5023567 PFL-C3, Price: 653руб.
+ID: 751358, Model:  5023543 PFL-C3, Price: 414руб.
+ID: 751363, Model:  5026940 PFL-C3 SENSOR, Price: 2 098руб.
+ID: 580242, Model:  PFL -SC LED 20Вт IP65 6500К, Price: 1 088руб.
+ID: 751353, Model:  5027329 PFL- C3, Price: 7 514руб.
+ID: 751360, Model:  5023581 PFL-C3, Price: 953руб.
+ID: 580245, Model:  PFL -SC LED 10Вт IP65 6500К, Price: 648руб.
+ID: 751355, Model:  5023529 PFL-C3, Price: 339руб.
+ID: 580239, Model:  PFL-SC-SMD-30W Sensor LED 30Вт IP54 6500К, Price: 2 540руб.
+ID: 580240, Model:  PFL -SC 150Вт 6500К, Price: 8 892руб.
+ID: 751364, Model:  5007963D PFL-S2-SMD-300w, Price: 21 308руб.
+ID: 580244, Model:  PFL-SC-SMD-30Вт LED 30Вт IP65 6500К, Price: 1 548руб.
+ID: 751362, Model:  5026926 PFL-C3 SENSOR, Price: 1 471руб.
+ID: 751356, Model:  5023642 PFL-C3, Price: 3 544руб.
+ID: 751361, Model:  5023604 PFL-C3, Price: 2 069руб.
+ID: 580238, Model:  PFL-C-SMD-70w LED 70Вт IP65 6500К, Price: 1 579руб.
+ID: 580410, Model:  PFL-S2-SMD-200Вт, Price: 10 769руб.
+ID: 580236, Model:  PFL-S2-SMD-100w LED 100Вт IP65 6500К, Price: 5 949руб.
+ID: 580241, Model:  PFL-S2-SMD-30w LED 30Вт IP65 6500К, Price: 2 079руб.
+ID: 625021, Model:  5001893A, Price: 68 999руб.
+ID: 580243, Model:  PFL- S2 -SMD-50w LED 50Вт IP65 6500К, Price: 2 739руб.
+ID: 580249, Model:  PFL-C-100Вт 6500К, Price: 2 179руб.
+ID: 242516, Model:  PFL-20W/CW/GR, Price: 919руб.
+ID: 242520, Model:  PFL-SMD-100w/CW/GR, Price: 6 639руб.
+ID: 580250, Model:  PFL-C-SMD-50w LED 50Вт IP65 6500К, Price: 879руб.
+ID: 580237, Model:  PFL-C-SMD-20w sensor LED 20Вт IP65 6500К, Price: 1 149руб.
+Валидация данных прошла успешно
+Данные записаны в файл Excel
+Success!!! Status code = :200
+Тест успешно выполнен
